@@ -2,6 +2,8 @@
 import React from 'react';
 import './Section.module.css';
 import PropTypes from 'prop-types';
+
+
 const Section = ({ title, children }) => {
   return (
     <div>

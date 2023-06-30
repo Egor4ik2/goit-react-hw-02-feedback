@@ -2,6 +2,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import './FeedbackOptions.module.css';
+
+
 const FeedbackOptions = ({ options, onLeaveFeedback }) => {
   return (
     <div>
